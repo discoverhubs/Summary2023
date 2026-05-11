@@ -1,3 +1,4 @@
+#note python3.13 not recommended for disk space low maybe you can install python3.13+ for 128+ disk space 
 # 2023年度精选开源项目
 
 ![](http://photocdn.tv.sohu.com/img/q_mini/20231220/pic_org_07f9d034-eca1-4f03-b3a2-c584211e489b.png)
