@@ -1,7 +1,5 @@
 # 2023年度精选开源项目
 
-![](http://photocdn.tv.sohu.com/img/q_mini/20231220/pic_org_07f9d034-eca1-4f03-b3a2-c584211e489b.png)
-
 > 精选项目分类汇总:共461个项目
 
 
